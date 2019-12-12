@@ -1,0 +1,87 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+    <div class="form-group">
+        <input id="id" data-rule="" size="50" type="hidden" value="{$id}">
+        <!-- <div class="box">
+                <label for="c-avatar" class="control-label col-xs-12 col-sm-2">消费金额:</label>
+                <div class="col-xs-12 col-sm-4">
+                    <input id="money" data-rule="required" class="form-control" name="row[money]" type="number" value="">
+                </div>
+        </div> -->
+
+        <div class="form-group">
+            <label for="c-money" class="control-label col-xs-12 col-sm-2">消费金额:</label>
+            <div class="col-xs-12 col-sm-4">
+                <input id="money" data-rule="required" class="form-control" name="row[money]" type="number" value=""
+                    autocomplete="">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="c-money" class="control-label col-xs-12 col-sm-2">积分抵扣:</label>
+            <div class="col-xs-12 col-sm-4">
+                <input id='score' data-rule="" class="form-control" name="row[score]" type="number" value="{$score}"
+                    autocomplete="">
+            </div>
+            <a href="#" class="btn btn-success btn-embossed" id='btn2'>使用</a>
+        </div>
+
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" id="btn1" class="btn btn-success btn-embossed">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+
+
+</form>
+
+<script src="/assets/js/jquery.js"></script>
+<script type="text/javascript">
+    var score = '';
+    $("#btn2").click(function () {
+       
+        layer.confirm('确定使用积分抵扣吗？',
+            {
+                icon: 3,
+                title: '温馨提示',
+                yes: function (index) {
+                    score = $('#score').val();
+                    if(score<1){
+                        layer.msg('积分不足',{icon:2,time:2000});
+                    }
+                    layer.close(index);
+                },
+                cancel: function (index, layero) {
+                    layer.close(index);
+                   return false;
+                }
+            });
+
+    })
+    $("#btn1").click(function () {
+        var core = score;
+        var money = $('#money').val();
+        var id = $('#id').val();
+        $.ajax({
+            url: '{:url("saveMoney")}',
+            type: 'post',
+            dataType: 'json',
+            data: { 'money': money, 'id': id, 'score': core },
+            success: function (res) {
+                if (res.code == 1) {
+                    parent.location.reload();
+                } else {
+                    alert(res.msg);
+                }
+            }
+        })
+
+    });
+</script>
+
+<style>
+    .box {
+        width: 100%;
+
+    }
+</style>

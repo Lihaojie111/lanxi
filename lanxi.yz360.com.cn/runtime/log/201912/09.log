@@ -1,0 +1,3687 @@
+---------------------------------------------------------------
+[ 2019-12-09T01:15:38+08:00 ] 3.84.148.118 GET www.nyytyy.com/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.45kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T01:36:24+08:00 ] 151.80.39.138 GET nyzxjy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.26kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'nyzxjy.com',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T01:40:57+08:00 ] 137.226.113.27 GET www.yjzp1.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.36kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12sns; +http://researchscan.comsys.rwth-aachen.de)',
+  'host' => 'www.yjzp1.com',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T02:08:33+08:00 ] 151.80.39.59 GET hnhzlhhr.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.27kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'hnhzlhhr.com',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T03:12:48+08:00 ] 101.132.113.110 GET duandajun.net/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.41kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'duandajun.net',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T03:36:44+08:00 ] 3.84.148.118 GET www.nyxmbexy.com/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.49kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyxmbexy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T04:13:27+08:00 ] 116.66.160.38 GET 149.129.73.191/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.18kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '149.129.73.191',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T04:34:35+08:00 ] 47.101.201.133 GET pa.yz360.cc/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.40kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'pa.yz360.cc',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T04:36:20+08:00 ] 59.173.199.128 HEAD yjzp1.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,561.66kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'curl/7.29.0',
+  'host' => 'yjzp1.com',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T04:36:29+08:00 ] 59.173.199.129 HEAD www.yjzp1.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,561.68kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'curl/7.29.0',
+  'host' => 'www.yjzp1.com',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T04:51:35+08:00 ] 47.101.198.51 GET www.furuijiayigui.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.34kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'www.furuijiayigui.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T04:59:17+08:00 ] 47.100.214.242 GET www.nzwdzz.com/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.23kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'www.nzwdzz.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:07:07+08:00 ] 101.132.101.201 GET www.nytyqc.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.23kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'www.nytyqc.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:21:05+08:00 ] 3.84.148.118 GET www.nyytyy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.45kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:22:57+08:00 ] 47.100.246.14 GET www.nyyiren.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.36kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'www.nyyiren.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:24:10+08:00 ] 47.101.195.72 GET duandajun.net/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.38kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'duandajun.net',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:30:28+08:00 ] 47.101.189.132 GET pa.yz360.cc/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.23kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'pa.yz360.cc',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:33:30+08:00 ] 47.101.200.178 GET kairuitek.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.38kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'kairuitek.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:34:55+08:00 ] 151.80.39.46 GET www.nynep.com/
+[运行时间：0.031250s] [吞吐率：32.00req/s] [内存消耗：1,562.41kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'www.nynep.com',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:35:02+08:00 ] 3.84.148.118 GET www.nyytyy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.40kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T05:52:53+08:00 ] 47.101.198.179 GET nyytyy.com/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.23kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'nyytyy.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T06:03:58+08:00 ] 47.101.192.218 GET nynep.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.22kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'nynep.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T06:32:13+08:00 ] 106.15.181.202 GET zzxjc.cn/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.19kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'zzxjc.cn',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T06:32:26+08:00 ] 151.80.39.91 GET duandajun.net/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.41kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'duandajun.net',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T06:34:19+08:00 ] 47.101.193.1 GET www.nynep.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.38kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'www.nynep.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T06:36:30+08:00 ] 47.101.198.126 GET www.nyytyy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.38kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T06:50:06+08:00 ] 47.101.193.104 GET www.518xueche.net/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.35kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D)',
+  'host' => 'www.518xueche.net',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T06:59:15+08:00 ] 139.196.77.33 GET nyxmbexy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.41kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'nyxmbexy.com',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T07:05:07+08:00 ] 151.80.39.46 GET sx13ehr.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.28kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'sx13ehr.com',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T09:30:50+08:00 ] 3.84.148.118 GET www.nyytyy.com/
+[运行时间：0.187500s] [吞吐率：5.33req/s] [内存消耗：1,562.45kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T10:07:37+08:00 ] 3.84.148.118 GET www.nyytyy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.45kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T10:26:28+08:00 ] 89.238.139.56 GET sx13ehr.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.63kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'te' => 'deflate,gzip;q=0.3',
+  'host' => 'sx13ehr.com',
+  'keep-alive' => '300',
+  'connection' => 'Keep-Alive, TE',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T10:27:51+08:00 ] 151.80.39.195 GET www.nzwdzz.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.41kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'www.nzwdzz.com',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T11:14:20+08:00 ] 59.173.199.129 HEAD www.yjzp1.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,561.87kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'curl/7.29.0',
+  'host' => 'www.yjzp1.com',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T11:20:04+08:00 ] 137.226.113.26 GET www.addaojia.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.50kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12ca; +http://researchscan.comsys.rwth-aachen.de)',
+  'host' => 'www.addaojia.com',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T11:28:03+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/lunbo
+[运行时间：0.171875s] [吞吐率：5.82req/s] [内存消耗：2,752.49kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'lunbo',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '6',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'type' => '2',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ RUN ] app\api\controller\Index->lunbo[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_lunbo` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_lunbo` WHERE  `status` = 1  AND `is_del` = 0  AND `type` = 2 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:03+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/product
+[运行时间：0.140625s] [吞吐率：7.11req/s] [内存消耗：2,750.45kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'product',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ RUN ] app\api\controller\Index->product[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031250s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_product` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img`,`introduce` FROM `la_product` WHERE  `status` = 1  AND `is_del` = 0  AND `is_index` = 1 ORDER BY `id` DESC LIMIT 4 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:03+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/lunbo
+[运行时间：0.125000s] [吞吐率：8.00req/s] [内存消耗：2,751.93kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'lunbo',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '6',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'type' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ RUN ] app\api\controller\Index->lunbo[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_lunbo` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_lunbo` WHERE  `status` = 1  AND `is_del` = 0  AND `type` = 1 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:03+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/news
+[运行时间：0.156250s] [吞吐率：6.40req/s] [内存消耗：2,749.59kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'news',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ RUN ] app\api\controller\Index->news[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_msg` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`img`,`ctime`,`des` FROM `la_msg` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC LIMIT 3 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:03+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/servicecat
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,748.30kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'servicecat',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->servicecat[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_service_cat` [ RunTime:0.031250s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img` FROM `la_service_cat` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:03+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/technician
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,748.53kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'technician',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->technician[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_technician` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img` FROM `la_technician` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `onclicks` DESC LIMIT 4 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:03+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/detail
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：2,106.24kb] [文件加载：116]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->detail[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T11:28:04+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/service/cat
+[运行时间：0.156250s] [吞吐率：6.40req/s] [内存消耗：2,748.34kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'service',
+    2 => 'cat',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Service->cat[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Service.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_service_cat` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `la_service_cat` WHERE  `status` = 1  AND `is_del` = 0 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:04+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/service/cardList
+[运行时间：0.125000s] [吞吐率：8.00req/s] [内存消耗：2,751.33kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'service',
+    2 => 'cardList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '4',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '0',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Service->cardList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Service.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031250s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_card` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img`,`price` FROM `la_card` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `price` ASC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:04+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/service/cardCat
+[运行时间：0.156250s] [吞吐率：6.40req/s] [内存消耗：2,748.09kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'service',
+    2 => 'cardCat',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Service->cardCat[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Service.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_card_cat` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `la_card_cat` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:04+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/service/serviceDetail
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,753.15kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'service',
+    2 => 'serviceDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '4',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ RUN ] app\api\controller\Service->serviceDetail[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Service.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_service` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img`,`times`,`price` FROM `la_service` WHERE  `status` = 1  AND `is_del` = 0  AND `cat_id` = 1 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:05+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/service/productList
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：2,753.09kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'service',
+    2 => 'productList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '11',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '0',
+  'page' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Service->productList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Service.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_product` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img`,`price` FROM `la_product` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:05+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/service/productCat
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,748.23kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'service',
+    2 => 'productCat',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Service->productCat[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Service.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_product_cat` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `la_product_cat` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:06+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/order/service
+[运行时间：0.156250s] [吞吐率：6.40req/s] [内存消耗：2,833.55kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'order',
+    2 => 'service',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Order->service[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Order.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_service` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `la_service` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:06+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/islogin
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,836.31kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'islogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->islogin[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T11:28:06+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/order/technician
+[运行时间：0.171875s] [吞吐率：5.82req/s] [内存消耗：2,833.31kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'order',
+    2 => 'technician',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand3 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Order->technician[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Order.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.046875s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_technician` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img` FROM `la_technician` WHERE  `status` = 1  AND `is_del` = 0 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T12:33:49+08:00 ] 59.173.199.128 HEAD www.nyxmbexy.com/
+[运行时间：0.203125s] [吞吐率：4.92req/s] [内存消耗：1,561.70kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'curl/7.29.0',
+  'host' => 'www.nyxmbexy.com',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T12:35:29+08:00 ] 3.84.148.118 GET www.nyytyy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.40kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T12:50:37+08:00 ] 184.105.247.194 GET 149.129.73.191/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,561.38kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'host' => '149.129.73.191',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T12:51:45+08:00 ] 80.82.77.227 GET 149.129.73.191/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.13kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '149.129.73.191',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T13:01:14+08:00 ] 106.14.140.68 GET lanxi.yz360.com.cn/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.41kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T13:12:09+08:00 ] 5.196.87.106 GET kairuitek.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.27kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'kairuitek.com',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T13:34:30+08:00 ] 151.80.39.73 GET www.dingshangwenhua.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.45kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'www.dingshangwenhua.com',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T13:50:09+08:00 ] 18.237.199.196 GET dingshangwenhua.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,561.87kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Go-http-client/1.1',
+  'host' => 'dingshangwenhua.com',
+  'accept-encoding' => 'gzip',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T15:18:43+08:00 ] 151.80.39.63 GET www.kairuitek.com/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.43kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)',
+  'host' => 'www.kairuitek.com',
+  'accept-encoding' => 'deflate, gzip, br',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T16:27:20+08:00 ] 3.84.148.118 GET www.nyytyy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.45kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T16:41:27+08:00 ] 139.162.116.133 GET 149.129.73.191/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,561.96kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'HTTP Banner Detection (https://security.ipip.net)',
+  'host' => '149.129.73.191',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T17:06:51+08:00 ] 137.226.113.28 GET www.addaojia.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.50kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12sns; +http://researchscan.comsys.rwth-aachen.de)',
+  'host' => 'www.addaojia.com',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T18:19:36+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/product
+[运行时间：0.203125s] [吞吐率：4.92req/s] [内存消耗：2,750.45kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'product',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ RUN ] app\api\controller\Index->product[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_product` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img`,`introduce` FROM `la_product` WHERE  `status` = 1  AND `is_del` = 0  AND `is_index` = 1 ORDER BY `id` DESC LIMIT 4 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:36+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/lunbo
+[运行时间：0.187500s] [吞吐率：5.33req/s] [内存消耗：2,752.49kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'lunbo',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '6',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'type' => '2',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ RUN ] app\api\controller\Index->lunbo[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_lunbo` [ RunTime:0.031250s ]
+[ sql ] [ SQL ] SELECT * FROM `la_lunbo` WHERE  `status` = 1  AND `is_del` = 0  AND `type` = 2 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:36+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/lunbo
+[运行时间：0.156250s] [吞吐率：6.40req/s] [内存消耗：2,751.93kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'lunbo',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '6',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'type' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->lunbo[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_lunbo` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_lunbo` WHERE  `status` = 1  AND `is_del` = 0  AND `type` = 1 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:36+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/news
+[运行时间：0.125000s] [吞吐率：8.00req/s] [内存消耗：2,749.59kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'news',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->news[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031250s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_msg` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`img`,`ctime`,`des` FROM `la_msg` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC LIMIT 3 [ RunTime:0.015625s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:36+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/detail
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：2,106.24kb] [文件加载：116]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->detail[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T18:19:36+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/technician
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：2,748.53kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'technician',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->technician[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_technician` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img` FROM `la_technician` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `onclicks` DESC LIMIT 4 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:36+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/servicecat
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：2,748.30kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'servicecat',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->servicecat[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_service_cat` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img` FROM `la_service_cat` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:37+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyNum
+[运行时间：0.125000s] [吞吐率：8.00req/s] [内存消耗：2,840.30kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyNum',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyNum[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 OR `second_leader` = 13  OR `third_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `second_leader` = 13 LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `third_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:37+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/islogin
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,836.31kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'islogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->islogin[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:37+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/myOrder
+[运行时间：0.187500s] [吞吐率：5.33req/s] [内存消耗：2,872.38kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'myOrder',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'page' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->myOrder[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_order` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_order` WHERE  `uid` = 13 ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_order` WHERE  `uid` = 13 LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:37+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.203125s] [吞吐率：4.92req/s] [内存消耗：2,841.10kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `first_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:45+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,840.66kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '2',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `second_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `second_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:46+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：2,840.63kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '3',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `third_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `third_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:47+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：2,841.10kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `first_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:50+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：2,840.66kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '2',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `second_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `second_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:50+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,840.63kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '3',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `third_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `third_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:51+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,841.10kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `first_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:53+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,840.63kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '3',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `third_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `third_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:54+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,840.66kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '2',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `second_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `second_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:56+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,841.10kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `first_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:58+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/islogin
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,836.31kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'islogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->islogin[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:58+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyList
+[运行时间：0.203125s] [吞吐率：4.92req/s] [内存消耗：2,841.10kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'type' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyList[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.046875s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`avatar` FROM `la_user` WHERE  `first_leader` = 13 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:58+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/allyNum
+[运行时间：0.140625s] [吞吐率：7.11req/s] [内存消耗：2,840.30kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'allyNum',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->allyNum[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 OR `second_leader` = 13  OR `third_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `first_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `second_leader` = 13 LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user` WHERE  `third_leader` = 13 LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:19:58+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/myOrder
+[运行时间：0.218750s] [吞吐率：4.57req/s] [内存消耗：2,872.38kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'myOrder',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7304eaf3-40ba-4a6e-8e4e-5f440be20118',
+  'page' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->myOrder[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.078125s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '5010580a56280f5aaaec70a56869d68be4a46ee9' LIMIT 1 [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_order` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_order` WHERE  `uid` = 13 ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_order` WHERE  `uid` = 13 LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:00+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/login
+[运行时间：1.500000s] [吞吐率：0.67req/s] [内存消耗：2,856.20kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '37',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001yLhzj16E2Mt0IOfyj1zQfzj1yLhzn',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->login[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `wxopenid` = 'otClL5EryI15eSKwzE8oTQ-CDgfA' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] INSERT INTO `la_user_token` (`token` , `user_id` , `createtime` , `expiretime`) VALUES ('99088685b02f88420971bc9af543e7f622baacc8' , 13 , 1575886800 , 1578478800) [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:12+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/moneyLog
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,876.63kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'moneyLog',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7d19fde2-48e4-4b6b-aa83-460f1be0067a',
+  'page' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->moneyLog[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_money_log` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user_money_log` WHERE  `user_id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `money`,`type`,`memo`,`ctime` FROM `la_user_money_log` WHERE  `user_id` = 13 ORDER BY `id` DESC LIMIT 0,15 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:13+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/moneyLog
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,876.64kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'moneyLog',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7d19fde2-48e4-4b6b-aa83-460f1be0067a',
+  'page' => '2',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->moneyLog[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_money_log` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user_money_log` WHERE  `user_id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `money`,`type`,`memo`,`ctime` FROM `la_user_money_log` WHERE  `user_id` = 13 ORDER BY `id` DESC LIMIT 15,15 [ RunTime:0.015625s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:15+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/scoreLog
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,871.95kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'scoreLog',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7d19fde2-48e4-4b6b-aa83-460f1be0067a',
+  'page' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->scoreLog[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_score_log` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT `score`,`memo`,`type`,`ctime` FROM `la_user_score_log` WHERE  `user_id` = 13 ORDER BY `id` DESC LIMIT 0,15 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user_score_log` WHERE  `user_id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:16+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/scoreLog
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,871.95kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'scoreLog',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7d19fde2-48e4-4b6b-aa83-460f1be0067a',
+  'page' => '2',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->scoreLog[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_score_log` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `score`,`memo`,`type`,`ctime` FROM `la_user_score_log` WHERE  `user_id` = 13 ORDER BY `id` DESC LIMIT 15,15 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user_score_log` WHERE  `user_id` = 13 LIMIT 1 [ RunTime:0.015625s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:23+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/moneyLog
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,876.63kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'moneyLog',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '49',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7d19fde2-48e4-4b6b-aa83-460f1be0067a',
+  'page' => '1',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->moneyLog[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_money_log` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `la_user_money_log` WHERE  `user_id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `money`,`type`,`memo`,`ctime` FROM `la_user_money_log` WHERE  `user_id` = 13 ORDER BY `id` DESC LIMIT 0,15 [ RunTime:0.015625s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:29+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/newsDetail
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：2,750.30kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'newsDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '4',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ RUN ] app\api\controller\Index->newsDetail[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_msg` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `content`,`title`,`ctime`,`des` FROM `la_msg` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:32+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/newsDetail
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：2,751.97kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'newsDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '4',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '8',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->newsDetail[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_msg` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `content`,`title`,`ctime`,`des` FROM `la_msg` WHERE  `id` = 8 LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:35+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/index/newsDetail
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：2,793.66kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'newsDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '4',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '7',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ RUN ] app\api\controller\Index->newsDetail[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_msg` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `content`,`title`,`ctime`,`des` FROM `la_msg` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:46+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/user/islogin
+[运行时间：0.140625s] [吞吐率：7.11req/s] [内存消耗：2,836.31kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'user',
+    2 => 'islogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7d19fde2-48e4-4b6b-aa83-460f1be0067a',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api/lang/zh-cn/user.php
+[ info ] [ RUN ] app\api\controller\User->islogin[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.031250s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.031250s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:46+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/order/technician
+[运行时间：0.109375s] [吞吐率：9.14req/s] [内存消耗：2,833.31kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'order',
+    2 => 'technician',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7d19fde2-48e4-4b6b-aa83-460f1be0067a',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Order->technician[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Order.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015625s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_technician` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`img` FROM `la_technician` WHERE  `status` = 1  AND `is_del` = 0 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:20:46+08:00 ] 222.137.106.219 POST lanxi.yz360.com.cn/index.php/api/order/service
+[运行时间：0.125000s] [吞吐率：8.00req/s] [内存消耗：2,833.55kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'order',
+    2 => 'service',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '42',
+  'charset' => 'utf-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 9; MIX 3 Build/PKQ1.180729.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36 MicroMessenger/7.0.9.1560(0x27000934) Process/appbrand2 NetType/WIFI Language/zh_CN ABI/arm64',
+  'referer' => 'https://servicewechat.com/wxff51a687db71d678/6/page-frame.html',
+  'host' => 'lanxi.yz360.com.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => 'application/json',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '7d19fde2-48e4-4b6b-aa83-460f1be0067a',
+)
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015625s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Order->service[ C:\wwwroot\lanxi.yz360.com.cn\application\api\controller\Order.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:host=149.129.73.191;port=3306;dbname=lanxi_yz360;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user_token` [ RunTime:0.015625s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user_token` WHERE  `token` = '99088685b02f88420971bc9af543e7f622baacc8' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_user` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `la_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `la_service` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `la_service` WHERE  `status` = 1  AND `is_del` = 0 ORDER BY `id` DESC [ RunTime:0.015625s ]
+---------------------------------------------------------------
+[ 2019-12-09T18:40:56+08:00 ] 3.84.148.118 GET www.nyxmbexy.com/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.49kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyxmbexy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T18:46:21+08:00 ] 40.77.167.125 GET www.nyytyy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,563.48kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+  'host' => 'www.nyytyy.com',
+  'from' => 'bingbot(at)microsoft.com',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T19:05:17+08:00 ] 198.58.100.134 GET /
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,561.10kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T19:30:51+08:00 ] 3.84.148.118 GET www.nyxmbexy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.49kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyxmbexy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T19:57:39+08:00 ] 3.84.148.118 GET www.nyytyy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.45kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015625s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyytyy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T20:16:58+08:00 ] 137.226.113.28 GET www.dingshangwenhua.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.49kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12ca; +http://researchscan.comsys.rwth-aachen.de)',
+  'host' => 'www.dingshangwenhua.com',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T20:41:08+08:00 ] 3.84.148.118 GET www.nyxmbexy.com/
+[运行时间：0.046875s] [吞吐率：21.33req/s] [内存消耗：1,562.49kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'EECS398 Search Engine danielwu@umich.edu (Linux)',
+  'host' => 'www.nyxmbexy.com',
+  'accept-encoding' => 'identity',
+  'accept' => '*/*',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T20:59:53+08:00 ] 137.226.113.27 GET www.kairuitek.com/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.50kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12ca; +http://researchscan.comsys.rwth-aachen.de)',
+  'host' => 'www.kairuitek.com',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-09T22:26:43+08:00 ] 96.127.169.2 GET 149.129.73.191/
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：1,562.45kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ LANG ] C:\wwwroot\lanxi.yz360.com.cn\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '149.129.73.191',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File

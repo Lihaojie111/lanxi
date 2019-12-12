@@ -1,0 +1,25 @@
+<div>
+    <table id="table" class="table table-striped table-bordered table-hover" data-operate-edit="1" width="100%">
+        <thead>
+            <tr>
+                <th style="text-align: center; vertical-align: middle;" data-field="id">ID</th>
+                <th style="text-align: center; vertical-align: middle;" data-field="id">变更积分</th>
+                <th style="text-align: center; vertical-align: middle;" data-field="id">状态</th>
+                <th style="text-align: center; vertical-align: middle;" data-field="id">备注</th>
+                <th style="text-align: center; vertical-align: middle;" data-field="id">时间</th>
+            </tr>
+        </thead>
+        <tbody>
+            {volist name="info" id="vo"}
+            <tr>
+                <td style="text-align: center; vertical-align: middle;" data-field="id">{$vo.id}</td>
+                <td style="text-align: center; vertical-align: middle;" data-field="id">{$vo.score}</td>
+                <td style="text-align: center; vertical-align: middle;" data-field="id">{if condition="$vo['type'] eq 1"}增加{else}减少{/if}</td>
+                <td style="text-align: center; vertical-align: middle;" data-field="id">{$vo.memo}</td>
+                <td style="text-align: center; vertical-align: middle;" data-field="id">{:date('Y-m-d H:i',$vo.ctime)}</td>
+            </tr>
+            {/volist}
+        </tbody>
+    </table>
+</div>
+

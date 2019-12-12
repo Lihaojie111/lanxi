@@ -1,0 +1,75 @@
+[ 2019-11-08T09:15:18+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000333s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T09:15:18+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T09:15:18+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005194s ]
+[ 2019-11-08T09:15:18+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-11-08T09:15:18+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.003865s ] mysql:host=127.0.0.1;port=3306;dbname=fastadmin;charset=utf8
+[ 2019-11-08T09:15:18+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'card_cat' [ RunTime:0.001453s ]
+[ 2019-11-08T09:15:18+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'la_card_cat' [ RunTime:0.001896s ]
+[ 2019-11-08T09:15:18+08:00 ][ sql ] [ SQL ] SELECT * FROM `information_schema`.`columns` WHERE TABLE_SCHEMA = 'fastadmin' AND table_name = 'la_card_cat' ORDER BY ORDINAL_POSITION [ RunTime:0.001756s ]
+[ 2019-11-08T09:45:57+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000307s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T09:45:57+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T09:45:57+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006140s ]
+[ 2019-11-08T09:45:57+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-11-08T09:45:57+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.003982s ] mysql:host=127.0.0.1;port=3306;dbname=fastadmin;charset=utf8
+[ 2019-11-08T09:45:57+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'card' [ RunTime:0.001562s ]
+[ 2019-11-08T09:45:57+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'la_card' [ RunTime:0.001883s ]
+[ 2019-11-08T09:45:57+08:00 ][ sql ] [ SQL ] SELECT * FROM `information_schema`.`columns` WHERE TABLE_SCHEMA = 'fastadmin' AND table_name = 'la_card' ORDER BY ORDINAL_POSITION [ RunTime:0.002205s ]
+[ 2019-11-08T09:52:21+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000240s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T09:52:21+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T09:52:21+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006743s ]
+[ 2019-11-08T09:52:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000238s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T09:52:50+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T09:52:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006731s ]
+[ 2019-11-08T09:52:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-11-08T09:52:50+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.004265s ] mysql:host=127.0.0.1;port=3306;dbname=fastadmin;charset=utf8
+[ 2019-11-08T09:52:50+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'card' [ RunTime:0.001745s ]
+[ 2019-11-08T09:52:50+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'la_card' [ RunTime:0.002126s ]
+[ 2019-11-08T09:52:50+08:00 ][ sql ] [ SQL ] SELECT * FROM `information_schema`.`columns` WHERE TABLE_SCHEMA = 'fastadmin' AND table_name = 'la_card' ORDER BY ORDINAL_POSITION [ RunTime:0.001802s ]
+[ 2019-11-08T10:49:15+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000265s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T10:49:15+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T10:49:15+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008800s ]
+[ 2019-11-08T10:49:15+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-11-08T10:49:15+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.004221s ] mysql:host=127.0.0.1;port=3306;dbname=fastadmin;charset=utf8
+[ 2019-11-08T10:49:15+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'lunbo' [ RunTime:0.002045s ]
+[ 2019-11-08T10:49:15+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'la_lunbo' [ RunTime:0.002375s ]
+[ 2019-11-08T10:49:36+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000252s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T10:49:36+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T10:49:36+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006248s ]
+[ 2019-11-08T10:49:36+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-11-08T10:49:36+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.003874s ] mysql:host=127.0.0.1;port=3306;dbname=fastadmin;charset=utf8
+[ 2019-11-08T10:49:36+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'lunbo' [ RunTime:0.001689s ]
+[ 2019-11-08T10:49:36+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'la_lunbo' [ RunTime:0.002302s ]
+[ 2019-11-08T10:49:36+08:00 ][ sql ] [ SQL ] SELECT * FROM `information_schema`.`columns` WHERE TABLE_SCHEMA = 'fastadmin' AND table_name = 'la_lunbo' ORDER BY ORDINAL_POSITION [ RunTime:0.001809s ]
+[ 2019-11-08T11:41:15+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000278s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T11:41:15+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T11:41:15+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006783s ]
+[ 2019-11-08T11:41:15+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-11-08T11:41:15+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.004121s ] mysql:host=127.0.0.1;port=3306;dbname=fastadmin;charset=utf8
+[ 2019-11-08T11:41:15+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'msg' [ RunTime:0.001460s ]
+[ 2019-11-08T11:41:15+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'la_msg' [ RunTime:0.001666s ]
+[ 2019-11-08T11:41:15+08:00 ][ sql ] [ SQL ] SELECT * FROM `information_schema`.`columns` WHERE TABLE_SCHEMA = 'fastadmin' AND table_name = 'la_msg' ORDER BY ORDINAL_POSITION [ RunTime:0.001796s ]
+[ 2019-11-08T15:00:27+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000258s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T15:00:27+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T15:00:27+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007344s ]
+[ 2019-11-08T15:00:27+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-11-08T15:00:27+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.004636s ] mysql:host=127.0.0.1;port=3306;dbname=fastadmin;charset=utf8
+[ 2019-11-08T15:00:27+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'order' [ RunTime:0.001954s ]
+[ 2019-11-08T15:00:27+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'la_order' [ RunTime:0.002554s ]
+[ 2019-11-08T15:00:27+08:00 ][ sql ] [ SQL ] SELECT * FROM `information_schema`.`columns` WHERE TABLE_SCHEMA = 'fastadmin' AND table_name = 'la_order' ORDER BY ORDINAL_POSITION [ RunTime:0.001952s ]
+[ 2019-11-08T15:02:40+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000248s ]
+[ info ] [ LOG ] INIT File
+[ 2019-11-08T15:02:40+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-11-08T15:02:40+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006179s ]
+[ 2019-11-08T15:02:40+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-11-08T15:02:40+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.005033s ] mysql:host=127.0.0.1;port=3306;dbname=fastadmin;charset=utf8
+[ 2019-11-08T15:02:40+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'order' [ RunTime:0.001326s ]
+[ 2019-11-08T15:02:40+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'la_order' [ RunTime:0.002039s ]
+[ 2019-11-08T15:02:40+08:00 ][ sql ] [ SQL ] SELECT * FROM `information_schema`.`columns` WHERE TABLE_SCHEMA = 'fastadmin' AND table_name = 'la_order' ORDER BY ORDINAL_POSITION [ RunTime:0.001835s ]
